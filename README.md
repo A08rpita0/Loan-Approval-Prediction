@@ -1,4 +1,4 @@
-# 🏦 Loan Approval Prediction App
+# 🏦 Loan Approval Prediction Website
 
 A machine learning–based web application built using **Streamlit** that predicts whether a loan application is likely to be **approved or rejected** based on applicant details.
 
@@ -54,7 +54,7 @@ The application accepts the following inputs:
 The result is displayed instantly after clicking the **Predict Loan Status** button.
 
 ---
-## App Live at https://loan-approval-prediction-ab49dxfr7kjmv6jpbbr9aa.streamlit.app/
+## Website live at https://loan-approval-prediction-ab49dxfr7kjmv6jpbbr9aa.streamlit.app/
 
 
 
