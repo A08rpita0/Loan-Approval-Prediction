@@ -54,6 +54,7 @@ The application accepts the following inputs:
 The result is displayed instantly after clicking the **Predict Loan Status** button.
 
 ---
+## App Live at https://loan-approval-prediction-ab49dxfr7kjmv6jpbbr9aa.streamlit.app/
 
 
 
